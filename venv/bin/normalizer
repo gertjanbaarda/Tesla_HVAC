@@ -1,4 +1,4 @@
-#!/home/gertjan/tesla_hvac/venv/bin/python3.12
+#!/home/gertjan/Tesla_HVAC/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
